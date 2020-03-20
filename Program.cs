@@ -16,6 +16,17 @@ namespace projetosCsharp
             Console.Write("mais um teste comit");
             Console.WriteLine("Ideade é igual "+idade);
             
+
+            double varconversao;
+            varconversao = 122.3;
+
+            Console.WriteLine(varconversao);
+
+            int varconvertido = (int)varconversao; // processo de conversao da variavel double para inteiro 'casting'
+            
+            Console.WriteLine(varconvertido);
+            
+
             //marge teste
 
         }
