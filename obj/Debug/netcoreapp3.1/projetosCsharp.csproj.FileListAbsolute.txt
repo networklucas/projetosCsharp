@@ -1,0 +1,13 @@
+/home/lucas/Documentos/projetos/projetosCsharp/bin/Debug/netcoreapp3.1/projetosCsharp
+/home/lucas/Documentos/projetos/projetosCsharp/bin/Debug/netcoreapp3.1/projetosCsharp.deps.json
+/home/lucas/Documentos/projetos/projetosCsharp/bin/Debug/netcoreapp3.1/projetosCsharp.runtimeconfig.json
+/home/lucas/Documentos/projetos/projetosCsharp/bin/Debug/netcoreapp3.1/projetosCsharp.runtimeconfig.dev.json
+/home/lucas/Documentos/projetos/projetosCsharp/bin/Debug/netcoreapp3.1/projetosCsharp.dll
+/home/lucas/Documentos/projetos/projetosCsharp/bin/Debug/netcoreapp3.1/projetosCsharp.pdb
+/home/lucas/Documentos/projetos/projetosCsharp/obj/Debug/netcoreapp3.1/projetosCsharp.csprojAssemblyReference.cache
+/home/lucas/Documentos/projetos/projetosCsharp/obj/Debug/netcoreapp3.1/projetosCsharp.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/projetos/projetosCsharp/obj/Debug/netcoreapp3.1/projetosCsharp.AssemblyInfoInputs.cache
+/home/lucas/Documentos/projetos/projetosCsharp/obj/Debug/netcoreapp3.1/projetosCsharp.AssemblyInfo.cs
+/home/lucas/Documentos/projetos/projetosCsharp/obj/Debug/netcoreapp3.1/projetosCsharp.dll
+/home/lucas/Documentos/projetos/projetosCsharp/obj/Debug/netcoreapp3.1/projetosCsharp.pdb
+/home/lucas/Documentos/projetos/projetosCsharp/obj/Debug/netcoreapp3.1/projetosCsharp.genruntimeconfig.cache
