@@ -9,8 +9,10 @@ namespace projetosCsharp
             Console.WriteLine("Hello World!");
             Console.WriteLine("testeconexão git");
             Console.WriteLine();
-            //teste comit
+            //teste comitado
             Console.WriteLine("Mais um Teste de comit");
+            Console.Write("mais um");
+
         }
     }
 }
